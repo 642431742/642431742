@@ -27,13 +27,14 @@
 🐎 乾坤未定，你我皆是黑马！
 
 
-## Orientation :dart:
+## 技术方向 :dart:
 
-I love coding. :heart:
+本人喜欢编程. :heart:
 
-I love Front End technologys. :heart:
+更喜欢前端技术. :heart:
 
-<p>
+<p align="center"><img src="https://img-blog.csdnimg.cn/f7384c88956d4378b72e47548e19c9f8.gif" alt="f7384c88956d4378b72e47548e19c9f8.gif" width="50" /></p>
+<p align="center">
 
 ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
@@ -42,9 +43,13 @@ I love Front End technologys. :heart:
 ![Vue](https://img.shields.io/badge/-Vue-42b883?logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-34495e?logo=react)
 ![Vite](https://img.shields.io/badge/-Vite-646cff?logo=vite&logoColor=white)
-![Node](https://img.shields.io/badge/-Node-ef3335?logo=node.js&logoColor=white&color=026e00)
 ![Webpack](https://img.shields.io/badge/-Webpack-1a6bac?logo=webpack)
-  
+<img src="https://img.shields.io/badge/-Nodejs-026e00?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-Expressjs-259dff?style=flat-square&logo=Express.js"/>
+<img src="https://img.shields.io/badge/-MongoDB-023430?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-MySQL-f29221?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Git-F5F5F5?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
 ## 项目分析 :point_down:
