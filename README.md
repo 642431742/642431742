@@ -1,31 +1,35 @@
-# Hello，我是九三👋
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=048EF7&center=&vCenter=&repeat=&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=%E4%BD%A0%E5%A5%BD%2C%E6%88%91%E6%98%AF%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85%E4%B9%9D%E4%B8%89)](https://git.io/typing-svg)
 
-<p>
-
-[![Juejin](https://img.shields.io/badge/juejin-%E7%99%BD%E9%9B%BE%E8%8C%AB%E8%8C%AB%E4%B8%B6-1e80ff?logo=bytedance)](https://juejin.im/user/1445174825983079)
-[![Github Stars](https://img.shields.io/github/stars/642431742?color=blueviolet&label=github%20stars&logo=github)](https://github.com/642431742)
-[![Website](https://img.shields.io/badge/My%20Blog-xhuan.com-b860ff?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZXNtb2tlIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+Qml0ZGVmZW5kZXIgaWNvbjwvdGl0bGU+PHBhdGggZD0iTTEuNjg1IDB2LjM1N2wxLjIzMiAxLjA0NmMxLjQ3NyAxLjIwNCAxLjY3IDEuNDM5IDEuNjcgMi41MjZWMjRoOC42NDZjNC41MzcgMCA5LjA4My0xLjYyOSA5LjA4My02Ljg0OSAwLTMuMDgyLTIuMTc0LTUuNDU4LTUuMTg2LTUuNzk3di0uMDY3YzIuNDc1LS43NDUgNC4xNjktMi41NCA0LjE2OS01LjI1MyAwLTQuMzcyLTMuNzMtNi4wMzItNy4zNDktNi4wMzJMMS42ODYgMHptNy4xNzYgMy42NjRoMy41MjRjMi4zODMgMCAzLjEyMS4zMjcgMy44NDQgMS4wMTMuNTQ4LjUyMS43OTkgMS4yMzcuODAxIDIuMDcgMCAuNzc1LS4yNjcgMS40NjYtLjgzMSAyLjAwNC0uNzA1LjY3Ni0xLjY3NCAxLjAxMS0zLjQ0MyAxLjAxMUg4Ljg2MlYzLjY2NHptMCA5Ljc1OGg0LjA5OWMzLjQ1NiAwIDUuMDg1Ljg4MSA1LjA4NSAzLjM5IDAgMy4xNTMtMy4wNTUgMy41MjYtNS4yNTYgMy41MjZIOC44NnYtNi45MTZ6Ii8+PC9zdmc+&logoColor=white&labelColor=red)](https://642431742.com/)
-![Profile View Counter](https://komarev.com/ghpvc/?username=642431742)
-  
+<p align="center">
 
   
   <p align="center">
     Visitor count<br><img src="https://profile-counter.glitch.me/642431742/count.svg" />
   </p>
+<p align="center">
+  
+[![Juejin](https://img.shields.io/badge/%E6%9D%8E%E5%A4%A7%E6%AC%A2-brightgreen?logo=bytedance&label=juejin)](https://juejin.im/user/1445174825983079)
+[![Github Stars](https://img.shields.io/github/stars/642431742?color=blueviolet&label=github%20stars&logo=github)](https://github.com/642431742)
+[![Website](https://img.shields.io/badge/My%20Blog-xhuan.com-b860ff?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZXNtb2tlIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+Qml0ZGVmZW5kZXIgaWNvbjwvdGl0bGU+PHBhdGggZD0iTTEuNjg1IDB2LjM1N2wxLjIzMiAxLjA0NmMxLjQ3NyAxLjIwNCAxLjY3IDEuNDM5IDEuNjcgMi41MjZWMjRoOC42NDZjNC41MzcgMCA5LjA4My0xLjYyOSA5LjA4My02Ljg0OSAwLTMuMDgyLTIuMTc0LTUuNDU4LTUuMTg2LTUuNzk3di0uMDY3YzIuNDc1LS43NDUgNC4xNjktMi41NCA0LjE2OS01LjI1MyAwLTQuMzcyLTMuNzMtNi4wMzItNy4zNDktNi4wMzJMMS42ODYgMHptNy4xNzYgMy42NjRoMy41MjRjMi4zODMgMCAzLjEyMS4zMjcgMy44NDQgMS4wMTMuNTQ4LjUyMS43OTkgMS4yMzcuODAxIDIuMDcgMCAuNzc1LS4yNjcgMS40NjYtLjgzMSAyLjAwNC0uNzA1LjY3Ni0xLjY3NCAxLjAxMS0zLjQ0MyAxLjAxMUg4Ljg2MlYzLjY2NHptMCA5Ljc1OGg0LjA5OWMzLjQ1NiAwIDUuMDg1Ljg4MSA1LjA4NSAzLjM5IDAgMy4xNTMtMy4wNTUgMy41MjYtNS4yNTYgMy41MjZIOC44NnYtNi45MTZ6Ii8+PC9zdmc+&logoColor=white&labelColor=red)](https://642431742.com/)
+![Profile View Counter](https://komarev.com/ghpvc/?username=642431742)
+  
 </p>
+</p>
+
+## 关于我 :raised_hands:
+
+🎓 毕业于 [@已隐藏](https://github.com/642431742). 
+
+👨🏻‍💻 立志成为一名优秀的前端工程师
+
+❤️ 给我一段时间，我将在创造一个独特的前端世界
+
+🐎 乾坤未定，你我皆是黑马！
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=642431742&show_icons=true&locale=cn&include_all_commits=true&count_private=true)](https://github.com/642431742)
 
 
-## About Me :raised_hands:
-
-🎓 Graduated from the [@NOTCLOUD](https://github.com/gdgm). 
-
-👨🏻‍💻 Aspire to become an excellent front-end engineer
-
-❤️ Like that kind of natural, natural feeling
-
-🐎 The universe is uncertain, you and I are dark horses
 
 ## Orientation :dart:
 
