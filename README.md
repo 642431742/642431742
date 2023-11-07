@@ -27,10 +27,6 @@
 🐎 乾坤未定，你我皆是黑马！
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=642431742&show_icons=true&locale=cn&include_all_commits=true&count_private=true)](https://github.com/642431742)
-
-
-
 ## Orientation :dart:
 
 I love coding. :heart:
@@ -51,9 +47,9 @@ I love Front End technologys. :heart:
   
 </p>
 
-## Project Analysis :point_down:
+## 项目分析 :point_down:
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=642431742&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cyan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=642431742&layout=compact&theme=buefy&hide_border=true" /> |
+|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=642431742&show_icons=true&locale=cn&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/642431742) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=642431742&layout=compact&theme=buefy&hide_border=true&locale=cn" /> |
 | ------------- | ------------- |
 
 ![](https://github-profile-trophy.vercel.app/?username=642431742&theme=flat&column=7&margin-w=10)
