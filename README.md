@@ -13,8 +13,8 @@
     Visitor count<br><img src="https://profile-counter.glitch.me/642431742/count.svg" />
   </p>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=642431742&show_icons=true&locale=cn&include_all_commits=true&count_private=true)](https://github.com/642431742)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=642431742&show_icons=true&locale=cn&include_all_commits=true&count_private=true)](https://github.com/642431742)
 
 
 ## About Me :raised_hands:
